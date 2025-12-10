@@ -84,7 +84,7 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 
 | Manajemen Quiz | Pesan Pengguna | Riwayat Order |
 |:---:|:---:|:---:|
-| <img src="/screenshots/.editquiz.png" width="100%" alt="quiz"> | <img src="/screenshots/.managepesan.png" width="100%" alt="pesan"> | <img src="/screenshots/.managerorder.png" width="100%" alt="pesanan">
+| <img src="/screenshots/.editquiz.png" width="100%" alt="quiz"> | <img src="/screenshots/.managepesan.png" width="100%" alt="pesan"> | <img src="/screenshots/.manageorder.png" width="100%" alt="pesanan">
 
 </details>
 
