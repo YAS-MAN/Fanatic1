@@ -65,12 +65,12 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 <details>
 <summary><b>Klik untuk melihat Tampilan User (Frontend)</b></summary>
 
-| Homepage & Standings | F1 Store & Filter |
-|:---:|:---:|
+| Sign in & Sign Up | Homepage & Standings | Classification Car | Detail Car | Car Comparison | 
+|:---:|:---:|:---:|:---:|:---:|
 | <img src="path/to/home.jpg" width="100%" alt="Home"> | <img src="path/to/store.jpg" width="100%" alt="Store"> |
 
-| Car Comparison | Checkout Page |
-|:---:|:---:|
+|Quiz F1 | F1 Store & Filter | Cart | Checkout | Order | Message |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | <img src="path/to/compare.jpg" width="100%" alt="Comparison"> | <img src="path/to/checkout.jpg" width="100%" alt="Checkout"> |
 
 </details>
@@ -78,12 +78,12 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 <details>
 <summary><b>Klik untuk melihat Tampilan Admin (Backend)</b></summary>
 
-| Admin Dashboard | Manajemen Produk |
-|:---:|:---:|
+| Admin Dashboard | Manajemen Kendaraan | Manajemen Produk |
+|:---:|:---:|:---:|
 | <img src="path/to/admin_dash.jpg" width="100%" alt="Dashboard"> | <img src="path/to/admin_prod.jpg" width="100%" alt="Product CRUD"> |
 
-| Pesan Pengguna | Riwayat Order |
-|:---:|:---:|
+| Manajemen Quiz | Pesan Pengguna | Riwayat Order |
+|:---:|:---:|:---:|
 | <img src="path/to/admin_msg.jpg" width="100%" alt="Messages"> | <img src="path/to/admin_order.jpg" width="100%" alt="Orders"> |
 
 </details>
