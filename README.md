@@ -1,7 +1,5 @@
 # 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
 
-# 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
-
 ![F1 Fanatic Banner](https://images.unsplash.com/photo-1599474924187-334a405be6fa?q=80&w=1200&h=400&auto=format&fit=crop)
 
 <div align="center">
@@ -129,7 +127,7 @@ Ikuti langkah mudah ini untuk menjalankan F1 Fanatic di komputer lokal Anda (Loc
 2.  **Setup Database**
     * Buka **HeidiSQL** (bawaan Laragon) atau phpMyAdmin.
     * Buat database baru dengan nama `f1fanatic`.
-    * Import file `database.sql` yang ada di dalam folder root proyek ini.
+    * Import file **`f1fanatic_db.sql`** yang sudah tersedia di dalam folder root proyek ini.
 
 3.  **Konfigurasi Koneksi**
     * Buka file `db.php` di text editor.
@@ -150,18 +148,33 @@ Ikuti langkah mudah ini untuk menjalankan F1 Fanatic di komputer lokal Anda (Loc
 
 ## 📂 Struktur Direktori
 
+## 📂 Struktur Direktori
+
+Berikut adalah struktur file proyek **F1 Fanatic** berdasarkan *deployment* saat ini:
+
 ```text
-f1-fanatic/
-├── admin/              # Panel Kendali Admin (Protected)
-│   ├── cars.php        # CRUD Mobil
-│   ├── products.php    # CRUD Produk (+ Soft Delete Logic)
-│   └── orders.php      # Manajemen Pesanan
-├── assets/             # Penyimpanan Gambar (Mobil, Produk, Hero)
-├── auth.php            # Middleware Cek Sesi Login
-├── db.php              # Koneksi Database PDO
-├── style.css           # Styling Utama (Dark Theme Responsive)
-├── script.js           # Logika Frontend (Filter, Tabs, dll)
-├── index.php           # Halaman Login & Register
-├── home.php            # Halaman Utama (Live Data)
-├── store.php           # Katalog Belanja
-└── wishlist.php        # Fitur Simpan Produk
+FANATIC1/
+├── admin/                  # Panel Kendali Admin (Back-End)
+│   ├── auth_admin.php      # Autentikasi khusus admin
+│   ├── cars.php            # CRUD Mobil F1
+│   ├── products.php        # CRUD Produk Toko
+│   ├── orders.php          # Manajemen Pesanan
+│   ├── messages.php        # Moderasi Pesan
+│   └── quizzes.php         # Manajemen Soal Kuis
+├── assets/                 # Folder Media (Gambar Mobil, Produk, & Video)
+├── auth.php                # Middleware Cek Login User
+├── db.php                  # Koneksi Database (PDO)
+├── f1fanatic_db.sql        # ⚠️ FILE DATABASE (Import file ini ke MySQL)
+├── style.css               # Styling Utama (Dark Theme)
+├── script.js               # Logika Frontend (JS)
+├── index.php               # Halaman Login & Register
+├── home.php                # Halaman Utama (Klasemen & Jadwal)
+├── store.php               # Katalog Belanja (Toko)
+├── keranjang.php           # Logika Keranjang Belanja
+├── checkout.php            # Halaman Pembayaran & QRIS
+├── history.php             # Riwayat Transaksi User
+├── classification.php      # Menu Klasifikasi Tim
+├── comparison.php          # Fitur Komparasi Mobil
+├── detail.php              # Detail Spesifikasi Mobil
+├── quiz.php                # Halaman Kuis Interaktif
+└── messages.php            # Forum Diskusi Global
