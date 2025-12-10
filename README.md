@@ -1,7 +1,5 @@
 # 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
 
-![F1 Fanatic Banner](https://images.unsplash.com/photo-1599474924187-334a405be6fa?q=80&w=1200&h=400&auto=format&fit=crop)
-
 <div align="center">
 
 ![PHP](https://img.shields.io/badge/Backend-PHP%20Native%208.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
