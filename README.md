@@ -67,7 +67,7 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 
 | Sign in & Sign Up | Homepage & Standings | Classification Car | Detail Car | Car Comparison | 
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="/screenshots/.login1.png" width="100%" alt="Login1"> <img src="/screenshots/.login2.png" width="100%" alt="Login2">  | <img src="path/to/store.jpg" width="100%" alt="Store"> |
+| <img src="/screenshots/.login1.png" width="100%" alt="Login1"> <img src="/screenshots/.login2.png" width="100%" alt="Login2"> | <img src="/screenshots/.home1.png" width="100%" alt="home1"> <img src="/screenshots/.home2.png" width="100%" alt="home2"> | <img src="/screenshots/.classification1.png" width="100%" alt="classification1"> <img src="/screenshots/.classification2.png" width="100%" alt="classification2"> | <img src="/screenshots/.detail1.png" width="100%" alt="detail1"> <img src="/screenshots/.detail2.png" width="100%" alt="detail2"> | <img src="/screenshots/.comparison1.png" width="100%" alt="comparison1"> <img src="/screenshots/.comparison2.png" width="100%" alt="comparison2"> |
 
 |Quiz F1 | F1 Store & Filter | Cart | Checkout | Order | Message |
 |:---:|:---:|:---:|:---:|:---:|:---:|
