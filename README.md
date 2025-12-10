@@ -71,7 +71,7 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 
 |Quiz F1 | F1 Store & Filter | Cart | Checkout | Order | Message |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="/screenshots/.quiz1.png" width="100%" alt="quiz1"> <img src="/screenshots/.quiz2.png" width="100%" alt="quiz2"> | <img src="/screenshots/.store.png" width="100%" alt="store"> | <img src="/screenshots/.cart.png" width="100%" alt="cart"> | <img src="/screenshots/.chechkout.png" width="100%" alt="checkout"> | <img src="/screenshots/.pesanan.png" width="100%" alt="pesanan"> | <img src="/screenshots/.pesan1.png" width="100%" alt="pesan1"> <img src="/screenshots/.pesan2.png" width="100%" alt="pesan2"> |
+| <img src="/screenshots/.quiz1.png" width="100%" alt="quiz1"> <img src="/screenshots/.quiz2.png" width="100%" alt="quiz2"> | <img src="/screenshots/.store.png" width="100%" alt="store"> | <img src="/screenshots/.cart.png" width="100%" alt="cart"> | <img src="/screenshots/.checkout.png" width="100%" alt="checkout"> | <img src="/screenshots/.pesanan.png" width="100%" alt="pesanan"> | <img src="/screenshots/.pesan1.png" width="100%" alt="pesan1"> <img src="/screenshots/.pesan2.png" width="100%" alt="pesan2"> |
 
 </details>
 
