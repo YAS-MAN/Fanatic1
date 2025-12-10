@@ -67,7 +67,7 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 
 | Sign in & Sign Up | Homepage & Standings | Classification Car | Detail Car | Car Comparison | 
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="path/to/home.jpg" width="100%" alt="Home"> | <img src="path/to/store.jpg" width="100%" alt="Store"> |
+| <img src="Fanatic1/screenshots/login1.png" width="100%" alt="Home"> | <img src="path/to/store.jpg" width="100%" alt="Store"> |
 
 |Quiz F1 | F1 Store & Filter | Cart | Checkout | Order | Message |
 |:---:|:---:|:---:|:---:|:---:|:---:|
