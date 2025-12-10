@@ -1,4 +1,4 @@
-# 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
+# 🏎️ Fanatic 1 - The Ultimate Formula 1 Ecosystem
 
 <div align="center">
 
@@ -20,11 +20,11 @@
 
 ## 📖 Tentang Proyek
 
-**F1 Fanatic** bukan sekadar website informasi. Ini adalah ekosistem digital lengkap yang menggabungkan sensasi balapan dengan pengalaman belanja online dan interaksi sosial.
+**Fanatic 1** bukan sekadar website informasi. Ini adalah ekosistem digital lengkap yang menggabungkan sensasi balapan dengan pengalaman belanja online dan interaksi sosial.
 
-Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di mana fans biasanya harus membuka banyak tab untuk melihat klasemen, membeli merchandise, dan berdiskusi. F1 Fanatic menyatukan semuanya dalam satu antarmuka **Dark Mode** yang *sporty*, responsif, dan elegan.
+Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di mana fans biasanya harus membuka banyak tab untuk melihat klasemen, membeli merchandise, dan berdiskusi. Fanatic 1 menyatukan semuanya dalam satu antarmuka **Dark Mode** yang *sporty*, responsif, dan elegan.
 
-### ✨ Mengapa F1 Fanatic Spesial?
+### ✨ Mengapa Fanatic 1 Spesial?
 * **Data Intelligence:** Sistem otomatis yang mendeteksi ketersediaan API. Jika API F1 sedang down, sistem secara cerdas beralih ke *Fallback Data* lokal tanpa merusak tampilan user (Zero Downtime).
 * **E-Commerce Logic:** Keranjang belanja berbasis Database (bukan Session sementara), sehingga barang user tetap tersimpan meski mereka logout atau berganti perangkat.
 * **Data Integrity:** Menggunakan mekanisme *Soft Delete* pada manajemen produk untuk memastikan riwayat transaksi masa lalu tidak rusak meskipun barang sudah tidak dijual.
@@ -108,7 +108,7 @@ Proyek ini dibangun dengan prinsip **Clean Code** dan **Security First**.
 
 ## 💻 Instalasi & Menjalankan
 
-Ikuti langkah mudah ini untuk menjalankan F1 Fanatic di komputer lokal Anda (Localhost) menggunakan **Laragon**:
+Ikuti langkah mudah ini untuk menjalankan Fanatic 1 di komputer lokal Anda (Localhost) menggunakan **Laragon**:
 
 ### Prasyarat
 * Web Server (Laragon direkomendasikan).
@@ -119,7 +119,7 @@ Ikuti langkah mudah ini untuk menjalankan F1 Fanatic di komputer lokal Anda (Loc
 
 1.  **Clone Repositori**
     ```bash
-    git clone [https://github.com/username-anda/f1-fanatic.git](https://github.com/username-anda/f1-fanatic.git)
+    git clone [https://github.com/YAS-MAN/Fanatic1.git](https://github.com/YAS-MAN/Fanatic1.git)
     ```
 
 2.  **Setup Database**
@@ -143,8 +143,6 @@ Ikuti langkah mudah ini untuk menjalankan F1 Fanatic di komputer lokal Anda (Loc
     * Akses melalui browser: `http://localhost/Fanatic1/`
 
 ---
-
-## 📂 Struktur Direktori
 
 ## 📂 Struktur Direktori
 
