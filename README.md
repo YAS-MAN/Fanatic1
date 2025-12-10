@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## 📖 Tentang Proyek
 
 **Fanatic 1** bukan sekadar website informasi. Ini adalah ekosistem digital lengkap yang menggabungkan sensasi balapan dengan pengalaman belanja online dan interaksi sosial.
