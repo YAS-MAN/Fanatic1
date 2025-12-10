@@ -1,4 +1,4 @@
-# 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
+<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/6926b02d-8e89-4572-9258-2b9487f1ef94" /># 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 
 |Quiz F1 | F1 Store & Filter | Cart | Checkout | Order | Message |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="path/to/compare.jpg" width="100%" alt="Comparison"> | <img src="path/to/checkout.jpg" width="100%" alt="Checkout"> |
+| <img src="/screenshots/.quiz1.png" width="100%" alt="quiz1"> <img src="/screenshots/.quiz2.png" width="100%" alt="quiz2"> | <img src="/screenshots/.store.png" width="100%" alt="store"> | <img src="/screenshots/.cart.png" width="100%" alt="cart"> | <img src="/screenshots/.chechkout.png" width="100%" alt="checkout"> | <img src="/screenshots/.pesanan.png" width="100%" alt="pesanan"> | <img src="/screenshots/.pesan1.png" width="100%" alt="pesan1"> <img src="/screenshots/.pesan2.png" width="100%" alt="pesan2"> |
 
 </details>
 
@@ -80,11 +80,11 @@ Proyek ini dikembangkan untuk menyelesaikan masalah fragmentasi informasi F1, di
 
 | Admin Dashboard | Manajemen Kendaraan | Manajemen Produk |
 |:---:|:---:|:---:|
-| <img src="path/to/admin_dash.jpg" width="100%" alt="Dashboard"> | <img src="path/to/admin_prod.jpg" width="100%" alt="Product CRUD"> |
+| <img src="/screenshots/.admdashboard.png" width="100%" alt="dashboard"> | <img src="/screenshots/.editcar.png" width="100%" alt="car"> | <img src="/screenshots/.editproduct.png" width="100%" alt="product"> |
 
 | Manajemen Quiz | Pesan Pengguna | Riwayat Order |
 |:---:|:---:|:---:|
-| <img src="path/to/admin_msg.jpg" width="100%" alt="Messages"> | <img src="path/to/admin_order.jpg" width="100%" alt="Orders"> |
+| <img src="/screenshots/.editquiz.png" width="100%" alt="quiz"> | <img src="/screenshots/.managepesan.png" width="100%" alt="pesan"> | <img src="/screenshots/.managerorder.png" width="100%" alt="pesanan">
 
 </details>
 
