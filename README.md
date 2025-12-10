@@ -1,4 +1,4 @@
-<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/6926b02d-8e89-4572-9258-2b9487f1ef94" /># 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
+# 🏎️ F1 Fanatic - The Ultimate Formula 1 Ecosystem
 
 <div align="center">
 
